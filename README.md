@@ -22,7 +22,8 @@ Applying Python libraries such as Pandas, NumPy,and Matplotlib for data cleaning
 ## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
-** Austin Police Department 911 Calls Analysis **
+
+**Austin Police Department 911 Calls Analysis.**
 
 ![image](1 APD 1.PNG)
 ![image](2 APD2.PNG)
@@ -40,7 +41,7 @@ I helped FoodHub delivery platform reduce delivery times,improve customer experi
 [Read More](https://github.com/Yetty-code/Python-Portfolio-Projects/blob/master/Food_Hub_Project.ipynb)
 
 
-** Austo Automobile Data Analysis.**
+**Austo Automobile Data Analysis.**
 
 ![image](4 austo images.jpg)
 
