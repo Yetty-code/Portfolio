@@ -1,4 +1,3 @@
-# Portfolio
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
@@ -9,10 +8,13 @@ Hello! I'm Yetunde Kuti 🤓, a data analyst, with a passion for transforming co
 
 **- ✅ Data Analysis and Insights.**
 Extracting, cleaning, and analyzing data to discover patterns and trends.
+
 **- ✅ SQL and Database Management.**
 Writing SQL queries to extract, manipulate and retrieve data from large datasets for analysis.
+
 **- ✅ Data Visualization and Business Intelligence.**
 Creating detailed dashboards and reports that propels decision-making.
+
 **- ✅ Python for Data Analytics.**
 Applying Python libraries such as Pandas, NumPy,and Matplotlib for data cleaning, analysis and visualization.
 
