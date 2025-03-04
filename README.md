@@ -90,7 +90,7 @@ In this project, I used SQL to clean the data to make it usable for analysis and
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/yetundekuti">LinkedIn Profile</a></td>
+      <td><a href="https://www.linkedin.com/in/yetunde-kuti/">LinkedIn Profile</a></td>
     </tr>
   </tbody>
 </table>
