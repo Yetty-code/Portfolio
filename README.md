@@ -35,11 +35,11 @@ In this Project, I assisted the Austin Police Department to reduce response time
 
 **Exploratory Data Analysis using FoodHub Dataset.**
 
-![image](3 foodhub image.jpg)
+![image](foodhubb image.jpg)
 
-I helped FoodHub delivery platform reduce delivery times,improve customer experience and maximize revenue.
+In this project,I took the raw data and explored it using Python and this helped FoodHub delivery platform reduce delivery times,improve customer experience and maximize revenue.
 
-[Read More](https://github.com/Yetty-code/Python-Portfolio-Projects/blob/master/Food_Hub_Project.ipynb)
+[View Project](https://github.com/Yetty-code/Python-Portfolio-Projects/blob/master/Food_Hub_Project.ipynb)
 
 
 **Austo Automobile Data Analysis.**
