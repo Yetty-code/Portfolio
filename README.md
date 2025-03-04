@@ -63,10 +63,13 @@ In this project, I employed various SQL techniques to handle data cleaning to ma
 
 **SQL Data Cleaning and Exploratory Data Analysis on World Life Expectancy Data.**
 
-![image](6 world life expectancy.webp)
+![image](life_expectancy image.jpg)
 
-[Read More](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/World_Life_Expectancy_Data_Cleaning.sql)
-[Read More](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/World_Life_Exp_EDA.sql)
+In this project, I used SQL to clean the data to make it usable for analysis and I explored the world life expectancy data.
+
+[View Data Cleaning Project](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/World_Life_Expectancy_Data_Cleaning.sql)
+
+[View EDA Project](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/World_Life_Exp_EDA.sql)
 
 ## CONTACT DETAILS
 
