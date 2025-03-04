@@ -29,7 +29,7 @@ Applying Python libraries such as Pandas, NumPy,and Matplotlib for data cleaning
 
 ![image](APD2.PNG)
 
-How I assisted Austin Police Department to reduce response time for High Priority calls, reduce allocation of units to low-priority calls and improve public safety.
+In this Project, I assisted the Austin Police Department to reduce response time for High Priority calls, reduce allocation of units to low-priority calls and improve public safety.
 
 [View Project](https://github.com/Yetty-code/Python-Portfolio-Projects/blob/master/Austin_Police_Dept_Project.ipynb)
 
