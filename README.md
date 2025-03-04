@@ -53,12 +53,13 @@ In this project, Austo's Automobile management team wanted to understand the dem
 
 **SQL Data Cleaning and Exploratory Data Analysis on US Household Income Statistics.**
 
-![image](5 household income image.webp)
+![image](US household income image.jpg)
 
-How I employed various SQL techniques to handle data cleaning. I extracted meaningful insights regarding income distribution, income levels and other metrics
+In this project, I employed various SQL techniques to handle data cleaning to make the data more usable for analysis and I extracted meaningful insights regarding income distribution, income levels and other metrics.
 
-[Read More](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/USHouseholdIncome_Data_Cleaning.sql)
-[Read More](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/USHouseholdincome_Exploratory_Data_Analysis.sql)
+[View Data Cleaning Project](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/USHouseholdIncome_Data_Cleaning.sql)
+
+[View EDA Project](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/USHouseholdincome_Exploratory_Data_Analysis.sql)
 
 **SQL Data Cleaning and Exploratory Data Analysis on World Life Expectancy Data.**
 
