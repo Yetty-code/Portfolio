@@ -44,11 +44,11 @@ In this project,I took the raw data and explored it using Python and this helped
 
 **Austo Automobile Data Analysis.**
 
-![image](4 austo images.jpg)
+![image](Austo car images.jpg)
 
-Austo's Automobile management team wants to understand the demand of the buyers and trends in the US market. They want to build customer profiles based on the analysis to identify new purchase opportunities so that they can manipulate the business strategy and production to meet certain demand levels.
+In this project, Austo's Automobile management team wanted to understand the demand of the buyers and trends in the US market. They want to build customer profiles based on the analysis to identify new purchase opportunities so that they can manipulate the business strategy and production to meet certain demand levels.
 
-[Read More](https://github.com/Yetty-code/Python-Portfolio-Projects/blob/master/Austo_Project.ipynb)
+[View Project](https://github.com/Yetty-code/Python-Portfolio-Projects/blob/master/Austo_Project.ipynb)
 
 
 **SQL Data Cleaning and Exploratory Data Analysis on US Household Income Statistics.**
