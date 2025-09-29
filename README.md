@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Yetunde Kuti 🤓, a data analyst, with a passion for transforming complex datasets into meaningful insights. With extensive hands-on experience in Python, SQL, Excel, and Power BI, I specialize in leveraging data to solve real-world problems.
+Hello! I'm Yetunde Kuti 🤓, a data analyst, with a passion for transforming complex datasets into meaningful insights. With extensive hands-on experience in Python, SQL, Excel, Tableau and Power BI, I specialize in leveraging data to solve real-world problems.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
