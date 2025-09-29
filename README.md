@@ -22,6 +22,14 @@ Applying Python libraries such as Pandas, NumPy,and Matplotlib for data cleaning
 ## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
+**Superstore Sales Dashboard.**
+
+![image](Sales Dashboard.png)
+
+The Sales Dashboard aims to provide actionable insights into Superstore's Sales's performance by tracking monthly and yearly sales trends and analyzing top-performing products to boost Revenue.
+
+[Link to Dashboard](https://public.tableau.com/views/SalesDashboardProject_17590734721390/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 **Austin Police Department 911 Calls Analysis.**
 
