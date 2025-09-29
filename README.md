@@ -29,7 +29,15 @@ Applying Python libraries such as Pandas, NumPy,and Matplotlib for data cleaning
 
 The Sales Dashboard aims to provide actionable insights into Superstore's Sales's performance by tracking monthly and yearly sales trends and analyzing top-performing products to boost Revenue.
 
-[Link to Dashboard](https://public.tableau.com/views/SalesDashboardProject_17590734721390/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Link to Dashboard](https://public.tableau.com/app/profile/yetundekuti/viz/SalesDashboardProject_17590734721390/SalesDashboard)
+
+**Superstore Customer Dashboard.**
+
+![image](Customer Dashboard .png)
+
+The Customer Dashboard aims to understand Customer data, purchase frequency and customer segmentation to identify high-value customers and improve customer satisfaction.
+
+[Link to Dashboard](https://public.tableau.com/app/profile/yetundekuti/viz/SalesDashboardProject_17590734721390/SalesDashboard)
 
 
 **Austin Police Department 911 Calls Analysis.**
