@@ -22,6 +22,7 @@ Applying Python libraries such as Pandas, NumPy,and Matplotlib for data cleaning
 ## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
+
 **Superstore Sales Dashboard.**
 
 ![image](Sales Dashboard.png)
