@@ -70,25 +70,14 @@ In this project, Austo's Automobile management team wanted to understand the dem
 [View Project](https://github.com/Yetty-code/Python-Portfolio-Projects/blob/master/Austo_Project.ipynb)
 
 
-**SQL Data Cleaning and Exploratory Data Analysis on US Household Income Statistics.**
+**Retail Sales Data Analysis.**
 
-![image](US household income image.jpg)
+![image](Retail_Sales_Analysis.png)
 
-In this project, I employed various SQL techniques to handle data cleaning to make the data more usable for analysis and I extracted meaningful insights regarding income distribution, income levels and other metrics.
+This project performed exploratory data analysis,ranking and magnitude analysis,customer segmentation and report generation for a sales dataset using advanced SQL techniques.
 
-[View Data Cleaning Project](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/USHouseholdIncome_Data_Cleaning.sql)
+[View EDA Project](https://github.com/Yetty-code/Retail-Sales-Data-Analysis/blob/main/SQL%20Queries)
 
-[View EDA Project](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/USHouseholdincome_Exploratory_Data_Analysis.sql)
-
-**SQL Data Cleaning and Exploratory Data Analysis on World Life Expectancy Data.**
-
-![image](life_expectancy image.jpg)
-
-In this project, I used SQL to clean the data to make it usable for analysis and I explored the world life expectancy data.
-
-[View Data Cleaning Project](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/World_Life_Expectancy_Data_Cleaning.sql)
-
-[View EDA Project](https://github.com/Yetty-code/SQL-Portfolio-Projects/blob/main/World_Life_Exp_EDA.sql)
 
 ## CONTACT DETAILS
 
